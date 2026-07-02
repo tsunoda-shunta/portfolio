@@ -1,6 +1,6 @@
 #ポートフォリオ
 ★26-g011
-https://github.com/tsunoda-syunta/portfolio
+https://github.com/tsunoda-shunta/portfolio
 角田舜汰です。
 学習記録をまとめていきます。
 
